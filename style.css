@@ -1,7 +1,23 @@
+
 .card-header {
     text-align: center;
     background: goldenrod;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Arial Narrow Bold', Impact, Haettenschweiler, sans-serif;
     font-size: xx-large;
     color: white
+}
+.current {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 10px;
+   
+}
+.card {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 5px;
+    padding: 20px;
+    align-content: center;
+    width: 300px;
+    display: block;
+    background: blue;
+    color: white;
 }
